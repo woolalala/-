@@ -1,0 +1,12 @@
+<!--pages/register/register.wxml-->
+
+<view>
+  <image class='headimg' src="/images/register.png" ></image>
+</view>
+
+<view>
+  <form bindsubmit='formSubmit'>
+    <input class='input' name='PhoneNum' placeholder='请输入手机号' bindinput='inputPhoneNum'></input>
+    <button class='button' form-type='submit' bindtap='submitPhoneNum'>确定</button>
+  </form>
+</view>

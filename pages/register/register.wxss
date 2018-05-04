@@ -1,0 +1,9 @@
+/* pages/register/register.wxss */
+.headimg {
+  height: 300rpx;
+  width: 750rpx;
+}
+.input {
+  margin-top: 20rpx;
+  height: 80rpx;
+}

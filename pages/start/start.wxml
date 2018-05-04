@@ -1,0 +1,6 @@
+<!--pages/start/start.wxml-->
+
+<view>
+  <image class='headimg' src="/images/start.png" ></image>
+</view>
+<button class='button' bindtap='startUse'>开始用车</button>

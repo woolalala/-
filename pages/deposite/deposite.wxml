@@ -1,0 +1,10 @@
+<!--pages/deposite/deposite.wxml-->
+
+<image class='headimg' src="/images/deposite.png" ></image>
+<text class='money'>押金（可退）       ¥299</text>
+<view>
+<text class='backmoney'>押金随时退，两小时到账</text>
+</view>
+<view>
+<button class='button' bindtap='deposite'>去充值</button>
+</view>

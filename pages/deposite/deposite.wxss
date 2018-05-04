@@ -1,0 +1,13 @@
+/* pages/deposite/deposite.wxss */
+.money {
+  font-size: 60rpx;
+  color: gray;
+  margin-left: 40rpx;
+  width: 710rpx;
+}
+.backmoney {
+  font-size: 35rpx;
+  margin-left: 40rpx;
+  margin-top: 30rpx;
+  color: gray;
+}
